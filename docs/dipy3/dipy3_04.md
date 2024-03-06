@@ -1,7 +1,5 @@
 # Chapter 1 你的第一个 Python 程序
 
-# Chapter 1 你的第一个 Python 程序
-
 > " Don’t bury your burden in saintly silence. You have a problem? Great. Rejoice, dive in, and investigate. " — [Ven. Henepola Gunaratana](http://en.wikiquote.org/wiki/Buddhism)
 
 ## Diving In

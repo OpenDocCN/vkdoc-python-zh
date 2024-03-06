@@ -1,7 +1,5 @@
 # Chapter 6 闭合 与 生成器
 
-# Chapter 6 闭合 与 生成器
-
 > " My spelling is Wobbly. It’s good spelling but it Wobbles, and the letters get in the wrong places. " — Winnie-the-Pooh
 
 ## 深入

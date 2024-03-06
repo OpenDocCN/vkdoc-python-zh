@@ -1,7 +1,5 @@
 # Chapter B 特殊方法名称
 
-# Chapter B 特殊方法名称
-
 > " My specialty is being right when other people are wrong. " — [George Bernard Shaw](http://en.wikiquote.org/wiki/George_Bernard_Shaw)
 
 ## 深入

@@ -1,15 +1,11 @@
 # 附录 I. Python license
 
-# 附录 I. Python license
-
 *   I.A. History of the software
 *   I.B. Terms and conditions for accessing or otherwise using Python
     *   I.B.1\. PSF license agreement
     *   I.B.2\. BeOpen Python open source license agreement version 1
     *   I.B.3\. CNRI open source GPL-compatible license agreement
     *   I.B.4\. CWI permissions statement and disclaimer
-
-# I.A. History of the software
 
 # I.A. History of the software
 
@@ -20,8 +16,6 @@ Following the release of Python 1.6, and after Guido van Rossum left CNRI to wor
 After Python 2.0 was released by BeOpen.com, Guido van Rossum and the other PythonLabs developers joined Digital Creations. All intellectual property added from this point on, starting with Python 2.1 and its alpha and beta releases, is owned by the Python Software Foundation (PSF), a non-profit modeled after the Apache Software Foundation. See [`www.python.org/psf/`](http://www.python.org/psf/) for more information about the PSF.
 
 Thanks to the many outside volunteers who have worked under Guido's direction to make these releases possible.
-
-# I.B. Terms and conditions for accessing or otherwise using Python
 
 # I.B. Terms and conditions for accessing or otherwise using Python
 

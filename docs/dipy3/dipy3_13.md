@@ -1,7 +1,5 @@
 # Chapter 10 重构
 
-# Chapter 10 重构
-
 > " After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art. " — [Frédéric Chopin](http://en.wikiquote.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin)
 
 ## 深入

@@ -1,7 +1,5 @@
 # Chapter 9 单元测试
 
-# Chapter 9 单元测试
-
 > " Certitude is not the test of certainty. We have been cocksure of many things that were not so. " — [Oliver Wendell Holmes, Jr.](http://en.wikiquote.org/wiki/Oliver_Wendell_Holmes,_Jr.)
 
 ## （不要）深入

@@ -1,7 +1,5 @@
 # Chapter 3 解析
 
-# Chapter 3 解析
-
 > " Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are. " — [Richard Feynman](http://en.wikiquote.org/wiki/Richard_Feynman)
 
 ## 深入

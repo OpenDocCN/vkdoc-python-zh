@@ -1,7 +1,5 @@
 # Chapter 5 正则表达式
 
-# Chapter 5 正则表达式
-
 > " Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems. " — Jamie Zawinski
 
 ## 深入

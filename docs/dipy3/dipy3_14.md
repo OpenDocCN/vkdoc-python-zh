@@ -1,7 +1,5 @@
 # Chapter 11 文件
 
-# Chapter 11 文件
-
 > " A nine mile walk is no joke, especially in the rain. " — Harry Kemelman, The Nine Mile Walk
 
 ## 概要

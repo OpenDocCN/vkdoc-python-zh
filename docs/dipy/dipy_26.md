@@ -1,7 +1,5 @@
 # 附录 G. GNU Free Documentation License
 
-# 附录 G. GNU Free Documentation License
-
 *   G.0\. Preamble
 *   G.1\. Applicability and definitions
 *   G.2\. Verbatim copying
@@ -21,15 +19,11 @@ Copyright (C) 2000 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Bo
 
 # G.0\. Preamble
 
-# G.0\. Preamble
-
 The purpose of this License is to make a manual, textbook, or other written document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially. Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.
 
 This License is a kind of "copyleft", which means that derivative works of the document must themselves be free in the same sense. It complements the GNU General Public License, which is a copyleft license designed for free software.
 
 We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does. But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book. We recommend this License principally for works whose purpose is instruction or reference.
-
-# G.1\. Applicability and definitions
 
 # G.1\. Applicability and definitions
 
@@ -51,13 +45,9 @@ The "Title Page" means, for a printed book, the title page itself, plus such fol
 
 # G.2\. Verbatim copying
 
-# G.2\. Verbatim copying
-
 You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License. You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute. However, you may accept compensation in exchange for copies. If you distribute a large enough number of copies you must also follow the conditions in section 3.
 
 You may also lend copies, under the same conditions stated above, and you may publicly display copies.
-
-# G.3\. Copying in quantity
 
 # G.3\. Copying in quantity
 
@@ -68,8 +58,6 @@ If the required texts for either cover are too voluminous to fit legibly, you sh
 If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a publicly-accessible computer-network location containing a complete Transparent copy of the Document, free of added material, which the general network-using public has access to download anonymously at no charge using public-standard network protocols. If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.
 
 It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.
-
-# G.4\. Modifications
 
 # G.4\. Modifications
 
@@ -100,15 +88,11 @@ The author(s) and publisher(s) of the Document do not by this License give permi
 
 # G.5\. Combining documents
 
-# G.5\. Combining documents
-
 You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice.
 
 The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy. If there are multiple Invariant Sections with the same name but different contents, make the title of each such section unique by adding at the end of it, in parentheses, the name of the original author or publisher of that section if known, or else a unique number. Make the same adjustment to the section titles in the list of Invariant Sections in the license notice of the combined work.
 
 In the combination, you must combine any sections entitled "History" in the various original documents, forming one section entitled "History"; likewise combine any sections entitled "Acknowledgements", and any sections entitled "Dedications". You must delete all sections entitled "Endorsements."
-
-# G.6\. Collections of documents
 
 # G.6\. Collections of documents
 
@@ -118,13 +102,9 @@ You may extract a single document from such a collection, and distribute it indi
 
 # G.7\. Aggregation with independent works
 
-# G.7\. Aggregation with independent works
-
 A compilation of the Document or its derivatives with other separate and independent documents or works, in or on a volume of a storage or distribution medium, does not as a whole count as a Modified Version of the Document, provided no compilation copyright is claimed for the compilation. Such a compilation is called an "aggregate", and this License does not apply to the other self-contained works thus compiled with the Document, on account of their being thus compiled, if they are not themselves derivative works of the Document.
 
 If the Cover Text requirement of section 3 is applicable to these copies of the Document, then if the Document is less than one quarter of the entire aggregate, the Document's Cover Texts may be placed on covers that surround only the Document within the aggregate. Otherwise they must appear on covers around the whole aggregate.
-
-# G.8\. Translation
 
 # G.8\. Translation
 
@@ -132,19 +112,13 @@ Translation is considered a kind of modification, so you may distribute translat
 
 # G.9\. Termination
 
-# G.9\. Termination
-
 You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License. Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License. However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.
-
-# G.10\. Future revisions of this license
 
 # G.10\. Future revisions of this license
 
 The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns. See [`www.gnu.org/copyleft/`](http://www.gnu.org/copyleft/).
 
 Each version of the License is given a distinguishing version number. If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation. If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.
-
-# G.11\. How to use this License for your documents
 
 # G.11\. How to use this License for your documents
 

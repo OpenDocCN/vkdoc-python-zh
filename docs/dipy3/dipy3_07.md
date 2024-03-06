@@ -1,7 +1,5 @@
 # Chapter 4 字符串
 
-# Chapter 4 字符串
-
 > " I’m telling you this ’cause you’re one of my friends. My alphabet starts where your alphabet ends! " — Dr. Seuss, On Beyond Zebra!
 
 ## 在开始之前需要掌握的一些知识

@@ -1,7 +1,5 @@
 # Chapter 7 类 & 迭代器
 
-# Chapter 7 类 & 迭代器
-
 > " 东是东，西是西，东西不相及 " — [拉迪亚德·吉卜林](http://en.wikiquote.org/wiki/Rudyard_Kipling)
 
 ## 深入

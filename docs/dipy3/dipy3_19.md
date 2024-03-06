@@ -1,7 +1,5 @@
 # Chapter 16 打包 Python 类库
 
-# Chapter 16 打包 Python 类库
-
 > " You’ll find the shame is like the pain; you only feel it once. " — Marquise de Merteuil, [Dangerous Liaisons](http://www.imdb.com/title/tt0094947/quotes)
 
 ## 深入

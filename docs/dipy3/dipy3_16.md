@@ -1,7 +1,5 @@
 # Chapter 13 序列化 Python 对象
 
-# Chapter 13 序列化 Python 对象
-
 > " Every Saturday since we’ve lived in this apartment, I have awakened at 6:15, poured myself a bowl of cereal, added a quarter-cup of 2% milk, sat on **this** end of **this** couch, turned on BBC America, and watched Doctor Who. " — Sheldon, [The Big Bang Theory](http://en.wikiquote.org/wiki/The_Big_Bang_Theory#The_Dumpling_Paradox_.5B1.07.5D)
 
 ## 深入

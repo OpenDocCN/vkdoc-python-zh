@@ -1,7 +1,5 @@
 # Chapter A 使用`2to3`将代码移植到 Python 3
 
-# Chapter A 使用`2to3`将代码移植到 Python 3
-
 > " Life is pleasant. Death is peaceful. It’s the transition that’s troublesome. " — Isaac Asimov (attributed)
 
 ## 概述

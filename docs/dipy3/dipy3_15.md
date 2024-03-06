@@ -1,7 +1,5 @@
 # Chapter 12 XML
 
-# Chapter 12 XML
-
 > " In the archonship of Aristaechmus, Draco enacted his ordinances. " — [Aristotle](http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0046;query=chapter%3D%235;layout=;loc=3.1)
 
 ## 概述

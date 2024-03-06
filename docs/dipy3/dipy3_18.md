@@ -1,7 +1,5 @@
 # Chapter 15 案例研究:将`chardet`移植到 Python 3
 
-# Chapter 15 案例研究:将`chardet`移植到 Python 3
-
 > " Words, words. They’re all we have to go on. " — [Rosencrantz and Guildenstern are Dead](http://www.imdb.com/title/tt0100519/quotes)
 
 ## 概述
