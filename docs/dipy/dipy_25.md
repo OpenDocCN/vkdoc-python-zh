@@ -1,0 +1,7 @@
+# 附录 F. 关于本书
+
+# 附录 F. 关于本书
+
+本书的英文版是用 [Emacs](http://www.gnu.org/software/emacs/ "The One True Editor") 以 [DocBook XML](http://www.oasis-open.org/docbook/ "DocBook home page") 格式写成的, 使用 [由 Norman Walsh 编制的 XSL 样式表](http://www.nwalsh.com/xsl/ "DocBook XSL home page") 的经过客户化的版本由 [由 Michael Kay 编制的 SAXON XSLT 解析器](http://saxon.sourceforge.net/ "SAXON home page") 转化为 HTML。在此基础上, 使用 [HTMLDoc](http://www.easysw.com/htmldoc/ "HTMLDOC home page") 将其转化为 PDF; 使用 [w3m](http://ei5nazha.yz.yamagata-u.ac.jp/~aito/w3m/eng/ "w3m home page") 将其转化为无格式文本 (plain text)。(本书的简体中文版是使用译者习惯使用的编辑器对 XML 源代码进行翻译, 并使用原书作者提供的创建脚本输出了 html 版和 htmlflat 版，使用 HTML Help Workshop 生成了 chm 版本。)程序清单和例子使用了由 Just van Rossum 编写的 `pyfontify.py` 程序的改进版本进行了语法着色, 此程序包含在示例脚本中。
+
+如果您对学习用 DocBook 进行技术方面的写作感兴趣, 可以 [下载本书的 XML 源代码](http://diveintopython.org/download/diveintopython-xml-5.4b.zip "Download XML source files") 和 [创建脚本](http://diveintopython.org/download/diveintopython-common-5.4b.zip "Download build scripts and auxiliary files"), 它包含了用于创建本书各种输出格式的经过客户化的 XSL 样式表。您还应该阅读权威著作, [*DocBook: The Definitive Guide*](http://www.docbook.org/ "Read DocBook: TDG online")。如果您打算用 DocBook 进行任何正式的写作, 我建议您订阅 [DocBook 邮件列表](http://lists.oasis-open.org/archives/ "Subscribe to DocBook and/or DocBook-Apps")。
