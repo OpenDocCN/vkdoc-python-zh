@@ -834,7 +834,7 @@ globals()["z"] = 8     print "z=",z
 
 到了将迄今为止我们已经学过并用得不错的东西放在一起的时候了。我希望您专心些。
 
-## 例 8.20\. `translate` 函数，第 1 部分
+## 例 8.20\. `translate` 函数，第一部分
 
 ```py
  def translate(url, dialectName="chef"): 
@@ -850,7 +850,7 @@ globals()["z"] = 8     print "z=",z
 | [2] | 嘿，等一下，在这个函数中有一个 `import` 语句！它在 Python 中完全合法。您已经习惯了在一个程序的前面看到 `import` 语句，它意味着导入的模块在程序的任何地方都是可用的。但您也可以在一个函数中导入模块，这意味着导入的模块只能在函数中使用。如果您有一个只能用在一个函数中的模块，这是一个简便的方法，使您的代码更模块化。(当发现您周末的加班已经变成了一个 800 行的艺术作品，并且决定将其分割成一打可重用的模块时，您会感谢它的。) |
 | [3] | 现在我们得到了给定的 URL 源文件。 |
 
-## 例 8.21\. `translate` 函数，第 2 部分：奇妙而又奇妙
+## 例 8.21\. `translate` 函数，第二部分：奇妙而又奇妙
 
 ```py
  parserName = "%sDialectizer" % dialectName.capitalize() 
@@ -872,7 +872,7 @@ globals()["z"] = 8     print "z=",z
 
 最后，设想一下，使用了一种插件架构的 `Dialectizer` 框架。您可以将每个 `Dialectizer` 类放在分别放在独立的文件中，在 `dialect.py` 中只留下 `translate` 函数。假定一种统一的命名模式，这个 `translate` 函数能够动态地从合适的文件中导入合适的类，除了方言名字外什么都不用给出。(虽然您还没有看过动态导入，但我保证在后面的一章中会涉及到它。) 如果要加入一种新的方言，您只要在插件目录下加入一个以合适的名字命名的文件 (像 `foodialect.py`，它包含了 `FooDialectizer` 类) 。使用方言名 `'foo'` 来调用这个 `translate` 函数，将会查找 `foodialect.py` 模块，导入 `FooDialectizer` 类，这样就行了。
 
-## 例 8.22\. `translate` 函数，第 3 部分
+## 例 8.22\. `translate` 函数，第三部分
 
 ```py
  parser.feed(htmlSource) 

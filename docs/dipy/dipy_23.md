@@ -241,9 +241,9 @@
     *   例 8.18\. SGMLParser
     *   例 8.19\. 覆盖 handle_data 方法
 *   8.9\. 全部放在一起
-    *   例 8.20\. translate 函数，第 1 部分
-    *   例 8.21\. translate 函数，第 2 部分：奇妙而又奇妙
-    *   例 8.22\. translate 函数，第 3 部分
+    *   例 8.20\. translate 函数，第一部分
+    *   例 8.21\. translate 函数，第二部分：奇妙而又奇妙
+    *   例 8.22\. translate 函数，第三部分
 
 第九章 XML 处理
 
